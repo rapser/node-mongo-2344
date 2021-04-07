@@ -17,3 +17,7 @@ Para poder levantar nuestro servidor. No olvidar que tenemos que tener previamen
 ```sh
 $ npm run dev
 ```
+## Características
+
+El proyecto tiene un CRUD de tareas y el listado de tareas soporta por paginación.
+La base de datos es local.
